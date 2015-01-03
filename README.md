@@ -3,7 +3,7 @@ How to run the project?
 
 This example is explained in
 the post
-[Symfony/BDD example 06: error 404](???).
+[Symfony/BDD example 06: error 404](http://by-examples.net/2015/01/03/bdd-example-error404.html).
 
 ##1. Preliminary step
 
